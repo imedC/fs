@@ -14,10 +14,10 @@ Give examples
 
 ### Installing
 
-this module is related to :
-    - sale
-    - purchase
-    - inventory
+this module is related to : \n
+    - sale \n
+    - purchase \n
+    - inventory \n
 
 ## Authors
 
